@@ -15,7 +15,7 @@ metadata:
 
 Creating a modern website has never been easier with AstroWind's powerful combination of Astro and Tailwind CSS. This guide will walk you through the essential steps to launch your site.
 
-<img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80" >
+<img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80" width="100%" class="rounded-lg shadow-lg mb-4 mx-auto w-full aspect-video object-cover">
 
 ## Key Features and Benefits
 
