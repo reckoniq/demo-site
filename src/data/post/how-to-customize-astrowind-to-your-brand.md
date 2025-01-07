@@ -20,6 +20,11 @@ Creating a modern website has never been easier with AstroWind's powerful combin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtkAQRrQ5yg?si=3leApQlP5vqzFQCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Key Features and Benefits
 
+## Lets show some broken links
+
+- [Internal Link demo text](https://demo-site.reckoniq.com/how-to-customize-astrowind-to-your-brands/)
+- [External Link demo text](https://astrowind.vercel.apps)
+
 - **Lightning Fast Performance**: Built on Astro's static site generation
 - **Modern Styling**: Leveraging Tailwind CSS for responsive design
 - **Component-Based**: Modular architecture for easy customization
