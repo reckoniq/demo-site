@@ -17,6 +17,8 @@ Creating a modern website has never been easier with AstroWind's powerful combin
 
 <img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80" width="100%" class="rounded-lg shadow-lg mb-4 mx-auto w-full aspect-video object-cover">
 
+<a href="https://www.youtube.com/watch?v=qtkAQRrQ5yg" target="_blank">This is a valid link external link<a>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtkAQRrQ5yg?si=3leApQlP5vqzFQCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Key Features and Benefits
 
