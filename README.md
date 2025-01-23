@@ -51,7 +51,7 @@
 
 ## Demo
 
-📌 [https://astrowind.vercel.app/](https://astrowind.vercel.app/)
+📌 [https://demo-site.reckoniq.com/](https://demo-site.reckoniq.com/)
 
 <br>
 

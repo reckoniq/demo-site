@@ -8,7 +8,7 @@ tags:
   - front-end
   - resources
 metadata:
-  canonical: https://astrowind.vercel.app/landing
+  canonical: https://demo-site.reckoniq.com/landing
 ---
 
 # Mastering Landing Pages: Practical Guide for 2023

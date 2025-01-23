@@ -8,7 +8,7 @@ tags:
   - tailwind css
   - theme
 metadata:
-  canonical: https://astrowind.vercel.app/how-to-customize-astrowind-to-your-brand
+  canonical: https://demo-site.reckoniq.com/how-to-customize-astrowind-to-your-brand
 ---
 
 ## Getting Started with AstroWind
@@ -25,7 +25,7 @@ Creating a modern website has never been easier with AstroWind's powerful combin
 ## Lets show some broken links
 
 - [Internal Link demo text](https://demo-site.reckoniq.com/how-to-customize-astrowind-to-your-brands/)
-- [External Link demo text](https://astrowind.vercel.apps)
+- [External Link demo text](https://demo-site.reckoniq.coms)
 
 - **Lightning Fast Performance**: Built on Astro's static site generation
 - **Modern Styling**: Leveraging Tailwind CSS for responsive design

@@ -9,7 +9,7 @@ tags:
   - astro
   - tailwind css
 metadata:
-  canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
+  canonical: https://demo-site.reckoniq.com/get-started-website-with-astro-tailwind-css
 ---
 
 # Getting Started with AstroWind: Your Path to Modern Web Development
