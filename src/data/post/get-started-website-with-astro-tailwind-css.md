@@ -23,6 +23,8 @@ AstroWind combines the power of Astro and Tailwind CSS to create blazing-fast, b
 - **Developer Experience**: Intuitive workflows and patterns
 - **SEO Ready**: Built-in optimization features
 
+[Kiwi Flyer](/pdf/kiwiflyer.pdf)
+
 ## Quick Start Guide
 
 ### 1. Initial Setup
