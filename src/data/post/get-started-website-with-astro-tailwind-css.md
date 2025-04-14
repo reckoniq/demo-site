@@ -40,6 +40,8 @@ npm install
 npm run dev
 ```
 
+[Another link to the kiwi flyer but from another page](/pdf/kiwiflyer.pdf)
+
 ### 2. Project Structure
 
 ```plaintext
