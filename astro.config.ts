@@ -30,7 +30,9 @@ export default defineConfig({
     tailwind({
       applyBaseStyles: false,
     }),
-    sitemap(),
+    sitemap({
+      customPages: ['https://demo-site.reckoniq.com/broken-sitemap-example'],
+    }),
     mdx(),
     icon({
       include: {
