@@ -31,7 +31,7 @@ export default defineConfig({
       applyBaseStyles: false,
     }),
     sitemap({
-      customPages: ['https://demo-site.reckoniq.com/broken-sitemap-example'],
+      customPages: ['https://demo-site.reckoniq.com/broken-sitemap-example', "https://demo-site.reckoniq.com/broken-sitemap-example/with-pages-linking-to-it"],
     }),
     mdx(),
     icon({
